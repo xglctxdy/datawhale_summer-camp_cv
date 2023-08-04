@@ -8,6 +8,7 @@ datawhale夏令营cv方向
 1. 基于逻辑回归
 2. 基于cnn
 ## 工具
-编写了nii转换为jpg文件的脚本
+编写了nii转换为jpg文件的脚本，即nii _to_jpg.ipynb
 ## 个人的优化和改进
-等待验证后即上传
+为my_cnn实际效果并不好，目前位找到原因，不如微调原版baseline  
+my_cnn为将nii转为图片后用传统cnn方法做的，而baseline为直接读取nii做的，另外可以尝试三维卷积，据说三维卷积不用trick也可以跑到0.71多
