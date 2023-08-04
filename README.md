@@ -1,6 +1,7 @@
 # datawhale_summer-camp_cv
 datawhale夏令营cv方向
-其中chapter_0是环境配置的一些事项
+其中chapter_0是环境配置的一些事项  
+另外png和自定义数据集是当时群里面其他人写的一些小tricks
 ## 笔记
 记录了一些我遇到的问题和思考
 ## baseline
